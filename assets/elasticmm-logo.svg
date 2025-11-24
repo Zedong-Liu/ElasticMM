@@ -1,0 +1,26 @@
+<svg width="460" height="120" viewBox="0 0 460 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- 主文字（水平居中） -->
+  <text x="50%" y="65"
+        text-anchor="middle"
+        font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+        font-size="42"
+        fill="#111827"
+        letter-spacing="2">
+    Elastic
+    <tspan font-weight="800" fill="#2563EB" letter-spacing="1">MM</tspan>
+  </text>
+
+  <!-- 弹性下划线：相对中心对称，再整体平移到中线 x = 230 -->
+  <path
+    d="M -120 75
+       C -40 90, 40 60, 120 75"
+    fill="none"
+    stroke="#2563EB"
+    stroke-width="4"
+    stroke-linecap="round"
+    transform="translate(230,0)"
+  />
+
+  <!-- 末端小节点 -->
+  <circle cx="350" cy="75" r="3.5" fill="#2563EB" />
+</svg>

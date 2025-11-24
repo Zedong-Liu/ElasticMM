@@ -1,0 +1,24 @@
+# Core dependencies (required versions)
+ray>=2.8.0
+vllm>=0.10.0
+torch>=2.0.0
+transformers>=4.35.0
+
+# HTTP and async frameworks
+aiohttp
+httpx
+quart
+uvicorn
+
+# Data processing
+numpy
+msgpack
+Pillow
+pyyaml
+
+# Communication
+pyzmq
+
+# Type hints
+typing-extensions
+
