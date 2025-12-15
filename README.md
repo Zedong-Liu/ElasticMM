@@ -4,7 +4,7 @@
   <img src="assets/elasticmm-logo.svg" alt="ElasticMM Logo" width="420" />
 </p>
 
-ElasticMM is an efficient and scalable serving system for large multimodal models (LMMs). It introduces **Elastic Multimodal Parallelism (EMP)**, a new parallelization strategy that optimize resource utilization and system throughput for both text-only and multimodal inference workloads.
+ElasticMM is an efficient and scalable serving system for large multimodal models (LMMs). It introduces **Elastic Multimodal Parallelism (EMP)**, a new parallelization strategy that optimize resource utilization and system throughput for both text-only and multimodal inference workloads — **up to 4.2× lower TTFT & 3.2–4.5× higher throughput vs vLLM.**
 
 ## Latest News 🔥
 
