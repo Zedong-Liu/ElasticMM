@@ -1,5 +1,5 @@
 # ElasticMM: Elastic and Efficient MLLM Serving System
-
+<meta name="google-site-verification" content="0N9BEJXtp2tYIQ0w_DjT8WkkfCh4kAsP4x1ehj0bxPA" />
 <p align="center">
   <img src="assets/elasticmm-logo.svg" alt="ElasticMM Logo" width="420" />
 </p>
